@@ -10,6 +10,7 @@
 - [Cat Facts](https://alexwohlbruck.github.io/cat-facts/)
 - [D&D](https://www.dnd5eapi.co/)
 - [WWE](http://api.christopherbartholomew.me/wwelookupapi/web/index.html)
+- [Chuck Norris](https://api.chucknorris.io/)
 
 ## Resources
 - Postman
